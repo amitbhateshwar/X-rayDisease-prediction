@@ -11,7 +11,7 @@ The model is a **multi-label classifier** trained to detect multiple findings co
 
 Experience the app live and test it with your own chest X-ray images:
 
-👉 **Live Streamlit App:** [https://x-raydisease-prediction.streamlit.app/](https://x-raydisease-prediction.streamlit.app/)
+👉 **Live Streamlit App:** [https://x-ray-disease-prediction.streamlit.app/](https://x-raydisease-prediction.streamlit.app/)
 
 ---
 
@@ -19,14 +19,13 @@ Experience the app live and test it with your own chest X-ray images:
 
 | Role | Name | GitHub | LinkedIn |
 |------|------|---------|-----------|
-| **Data Science & Model Training** | **Arjun Verma** | @arjunverma2004 | https://www.linkedin.com/in/arjunverma2004 |
-| **Streamlit Deployment** | **Aaditya Singh** | @AadityaSinghWeb2005 | https://www.linkedin.com/in/aaditya-singh-bbab812a9 |
+| **Data Science, Model Training & Streamlit Deployment** | **Amit Bhateshwar** | @amitbhateshwar | https://www.linkedin.com/in/amit-bhateshwar-4abb66312 |
 
 ---
 
 ## 🚀 Model & Technology Stack
 
-### **Deep Learning Model (Trained by Arjun Verma)**
+### **Deep Learning Model (Trained by Amit Bhateshwar)**
 
 - Training process is detailed in the **grand-xray-2.ipynb** notebook.  
 - **Architecture:** DenseNet121 (Pre-trained on ImageNet)  
